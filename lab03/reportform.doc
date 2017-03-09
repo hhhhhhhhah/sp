@@ -1,0 +1,190 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 DejaVu Serif;}{\f4\fswiss\fprq2\fcharset0 DejaVu Sans;}{\f5\froman\fprq2\fcharset0 Times New Roman;}{\f6\froman\fprq2\fcharset0 Courier New;}{\f7\fnil\fprq2\fcharset0 DejaVu Sans;}{\f8\fnil\fprq2\fcharset0 Times New Roman;}{\f9\fnil\fprq2\fcharset0 Times New Roman CE;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}
+{\stylesheet{\s0\snext0\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\hyphpar0\dbch\af8\langfe1049\dbch\af9\afs24\cf0\kerning1\alang1081\loch\f5\fs24\lang1049 Normal;}
+{\*\cs15\snext15 Default Paragraph Font;}
+{\s16\sbasedon0\snext17\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\ltrpar\dbch\af7\langfe1049\dbch\af7\afs28\loch\f4\fs28\lang1049 Heading;}
+{\s17\sbasedon0\snext17\sl288\slmult1\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa140\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f5\fs24\lang1049 Text Body;}
+{\s18\sbasedon17\snext18\sl288\slmult1\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa140\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f5\fs24\lang1049 List;}
+{\s19\sbasedon0\snext19\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\sb120\sa120\noline\ltrpar\i\dbch\af8\langfe1049\dbch\af9\afs24\ai\loch\f5\fs24\lang1049 Caption;}
+{\s20\sbasedon0\snext20\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\noline\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f5\fs24\lang1049 Index;}
+{\s21\snext21\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\hyphpar0\dbch\af8\langfe1033\dbch\af9\afs24\cf0\kerning1\alang1081\loch\f5\fs20\lang1033 DocumentMap;}
+{\s22\sbasedon0\snext22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049 Plain Text;}
+}{\*\generator LibreOffice/5.3.0.3$Linux_X86_64 LibreOffice_project/30m0$Build-3}{\info{\*\company \u1048\'3f\u1057\'3f\u1055\'3f \u1056\'3f\u1040\'3f\u1053\'3f}{\upr{\title             \'3f\'3f\'3f\'3f\'3f\'3f\'3f\'3f\'3f\'3f\'3f\'3f \'3f\'3f\'3f\'3f\'3f\'3f N2}{\*\ud{\title             \u1051\'3f\u1072\'3f\u1073\'3f\u1086\'3f\u1088\'3f\u1072\'3f\u1090\'3f\u1086\'3f\u1088\'3f\u1085\'3f\u1072\'3f\u1103\'3f \u1088\'3f\u1072\'3f\u1073\'3f\u1086\'3f\u1090\'3f\u1072\'3f N2}}}{\author rvp}{\creatim\yr2011\mo2\dy24\hr15\min6}{\revtim\yr2017\mo3\dy3\hr13\min43}{\printim\yr2011\mo2\dy24\hr15\min38}}{\*\userprops{\propname Operator}\proptype30{\staticval user}}\deftab708\deftab708
+\viewscale100
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse451\pgwsxn11906\pghsxn16838\marglsxn1152\margrsxn1152\margtsxn1134\margbsxn1134\pgdscnxt0 Default Style;}}
+\formshade{\*\pgdscno0}\paperh16838\paperw11906\margl1152\margr1152\margt1134\margb1134\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11906\pghsxn16838\marglsxn1152\margrsxn1152\margtsxn1134\margbsxn1134\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep}\pgndec\pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+       }
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\u1046\'3f\u1048\'3f\u1056\'3f\u1053\'3f\u1067\'3f\u1049\'3f \u1064\'3f\u1056\'3f\u1048\'3f\u1060\'3f\u1058\'3f! 14 \u1087\'3f\u1091\'3f\u1085\'3f\u1082\'3f\u1090\'3f\u1086\'3f\u1074\'3f.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\li0\ri0\lin0\rin0\fi0\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+     }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\u1051\'3f\u1072\'3f\u1073\'3f\u1086\'3f\u1088\'3f\u1072\'3f\u1090\'3f\u1086\'3f\u1088\'3f\u1085\'3f\u1072\'3f\u1103\'3f \u1088\'3f\u1072\'3f\u1073\'3f\u1086\'3f\u1090\'3f\u1072\'3f N}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\li0\ri0\lin0\rin0\fi0\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\tab \tab \tab \tab \tab \tab \tab \tab \u1057\'3f\u1090\'3f\u1091\'3f\u1076\'3f\u1077\'3f\u1085\'3f\u1090\'3f:}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\tab \tab \tab \tab \tab \tab \tab \tab \u1043\'3f\u1088\'3f\u1091\'3f\u1087\'3f\u1087\'3f\u1072\'3f:}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\tab \tab \tab \tab \tab \tab \tab \tab \u1053\'3f\u1086\'3f\u1084\'3f\u1077\'3f\u1088\'3f \u1087\'3f\u1086\'3f \u1089\'3f\u1087\'3f\u1080\'3f\u1089\'3f\u1082\'3f\u1091\'3f:}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\tab \tab \tab \tab \tab \tab \tab \tab \u1042\'3f\u1072\'3f\u1088\'3f\u1080\'3f\u1072\'3f\u1085\'3f\u1090\'3f:}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\tab \tab \tab \tab \tab \tab \tab \tab \u1044\'3f\u1072\'3f\u1090\'3f\u1072\'3f:\tab \tab \tab \tab }
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\li0\ri0\lin0\rin0\fi0\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\u1058\'3f\u1077\'3f\u1084\'3f\u1072\'3f:}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\li0\ri0\lin0\rin0\fi0\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\u1063\'3f\u1072\'3f\u1089\'3f\u1090\'3f\u1100\'3f}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85}{\b\afs28\ab\rtlch \ltrch\loch\fs28
+.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+       }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\u1050\'3f\u1088\'3f\u1072\'3f\u1090\'3f\u1082\'3f\u1072\'3f\u1103\'3f \u1092\'3f\u1086\'3f\u1088\'3f\u1084\'3f\u1091\'3f\u1083\'3f\u1080\'3f\u1088\'3f\u1086\'3f\u1074\'3f\u1082\'3f\u1072\'3f \u1057\'3f\u1042\'3f\u1054\'3f\u1045\'3f\u1043\'3f\u1054\'3f \u1074\'3f\u1072\'3f\u1088\'3f\u1080\'3f\u1072\'3f\u1085\'3f\u1090\'3f\u1072\'3f \u1079\'3f\u1072\'3f\u1076\'3f\u1072\'3f\u1085\'3f\u1080\'3f\u1103\'3f}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85}{\b\afs28\ab\rtlch \ltrch\loch\fs28
+.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+       }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+//coin.cpp}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+#include "mlisp.h"}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double cc(double amount, double largest__coin);}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double count__change(double amount);}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double next__coin(double coin);}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double GR__AMOUNT();}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+extern double LAGEST__COIN;}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+extern double LAST__DIGIT__OF__GROUP__NUMBER;}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double cc(double amount, double largest__coin)\{}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\{return}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+(  (amount == 0 || largest__coin == 1.) ? 1.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+  }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+: !(amount  > 0 && largest__coin > 0) ? 0}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+  }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+: (cc(amount, next__coin(largest__coin)) +}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+     }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+cc(amount - largest__coin, largest__coin)}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+    }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+)}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+);}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\}\}}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double count__change(double amount)\{}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\{return}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+cc(amount, LAGEST__COIN);}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\}\}}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double next__coin(double coin)\{}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\{return }
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+  }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+( coin ==20. ? 5.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+  }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+: coin == 5. ? 3.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+  }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+: 0}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+);}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\}\}}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double GR__AMOUNT()\{\{}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+  }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+return 10. * LAST__DIGIT__OF__GROUP__NUMBER;}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\}\}}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double LAGEST__COIN=20.;}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+double LAST__DIGIT__OF__GROUP__NUMBER=4.;}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+int main()\{}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display(" xxx variant 0");newline();}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display(" 3-5-20");newline();}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display("count__change for 100 \\t= ");}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display(count__change(100.));newline();}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display("count__change for ");}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display(GR__AMOUNT());}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display(" \\t= ");}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+display(count__change(GR__AMOUNT()));newline();}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+std::cin.get();}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+ }{\b\afs28\ab\rtlch \ltrch\loch\fs28
+return 0;}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\}}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\fs28
+\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85\u8230\'85}{\b\afs28\ab\rtlch \ltrch\loch\fs28
+.}
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049\li0\ri0\lin0\rin0\fi0\b\afs28\ab\rtlch \ltrch\loch\fs28
+
+\par \pard\plain \s22\ql\widctlpar\faauto\li0\ri0\lin0\rin0\fi0\ltrpar\dbch\af8\langfe1049\dbch\af9\afs24\loch\f6\fs20\lang1049{\b\afs28\ab\rtlch \ltrch\loch\fs28
+\u1042\'3f\u1099\'3f\u1074\'3f\u1086\'3f\u1076\'3f\u1099\'3f.}
+\par }

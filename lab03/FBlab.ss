@@ -1,0 +1,37 @@
+(define (cc amount largest-coin)
+  (cond ((or(= amount 0) (= largest-coin 1)) 1)
+        ((not(and(> amount 0) (> largest-coin 0))) 0)
+        (else(+ (cc amount (next-coin largest-coin)) (cc (- amount largest-coin) largest-coin)))
+        )
+  )
+
+(define (count-change amount)
+  (cc amount LAGEST-COIN)
+  )
+
+(define (next-coin coin)
+  (cond ((= coin 50) 25)
+        ((= coin 25) 3)
+        ((= coin 3) 2)
+        ((= coin 2) 1)
+        (else 0))
+  )
+(define LAST-DIGIT-OF-GROUP-NUMBER 4)
+(define GR-AMOUNT
+  (* LAST-DIGIT-OF-GROUP-NUMBER 10)
+  )
+
+(define LAGEST-COIN 50)
+
+
+(display" FB variant 2")
+(newline)
+(display" 1-2-3-25-50")
+(newline)
+(display" count-change for 100 \t= ")
+(display(count-change 100))
+(newline)
+(display" count-change for ")
+(display GR-AMOUNT)
+(display" \t= ")
+(display(count-change GR-AMOUNT))
