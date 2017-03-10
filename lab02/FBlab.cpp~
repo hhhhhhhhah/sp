@@ -52,7 +52,7 @@ double root (double a, double b) {
     display("discrepancy=\t");
     display(fun(temp)); newline();
     display("root=\t\t");
-    (temp - b - 1) == 0 ? display("[bad]"), display("[good]");
+    (temp - b - 1) == 0 ? display("[bad]"): display("[good]");
     return temp;
 }
 
@@ -65,7 +65,8 @@ double fun(double z) {
 
 int main() {
     display("FB variant 3\n");
-    root(3.0,4.0);
+    display(root(3.0,4.0));
+    newline();
     return 0;
 }
 

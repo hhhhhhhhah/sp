@@ -29,12 +29,10 @@ bool prime_Q(double n) {
 }
 
 int main() {
-    display(prime_Q(3)); 
+    display(prime_Q(2)); 
     newline();
     display(prime_Q(4)); 
     newline();
-    display(prime_Q(10)); 
-    newline();
-    display(prime_Q(11));
+    display(prime_Q(7)); 
     newline();
 }

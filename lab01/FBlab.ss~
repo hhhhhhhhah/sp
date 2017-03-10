@@ -11,8 +11,3 @@
 
 (define (prime? n)
 (= n (smallest-divisor n)))
-
-(prime? 3)
-(prime? 4)
-(prime? 10)
-(prime? 11)

@@ -14,8 +14,8 @@ double half__interval__method(double a, double b) {
     double b__value = 0.;
     a__value = fun(a);
     b__value = fun(b);
-    return((a__value > 0. || b__value < 0.) ? FBtry(a,b)
-    	: (a__value < 0. && b__value > 0.) ? FBtry(b,a)
+    return((a__value < 0. || b__value > 0.) ? FBtry(a,b)
+    	: (a__value > 0. && b__value < 0.) ? FBtry(b,a)
     	: (b + 1)); 
 }
 
@@ -65,7 +65,8 @@ double fun(double z) {
 
 int main() {
     display("FB variant 3\n");
-    root(3.0,4.0);
+    display(root(3.0,4.0));
+    newline();
     return 0;
 }
 
