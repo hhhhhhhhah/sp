@@ -2,37 +2,38 @@
 #include "mlisp.h"
 
 double half__interval__method(double a, double b);
-double FBtry(double neg__point, double pos__point);
+double __FB__try(double neg__point, double pos__point);
 bool close__enough_Q(double x, double y);
 double average(double x, double y);
 double root (double a, double b);
 double fun(double z);
-const double tolerance = 0.00001;
+extern const double tolerance;
 
 double half__interval__method(double a, double b) {
     double a__value = 0.;
     double b__value = 0.;
     a__value = fun(a);
     b__value = fun(b);
-    return((a__value < 0. || b__value > 0.) ? FBtry(a,b)
-    	: (a__value > 0. && b__value < 0.) ? FBtry(b,a)
+    return((a__value < 0. || b__value > 0.) ? __FB__try(a,b)
+    	: (a__value > 0. && b__value < 0.) ? __FB__try(b,a)
     	: (b + 1)); 
 }
 
-double FBtry(double neg__point, double pos__point) {
+double __FB__try(double neg__point, double pos__point) {
     double midpoint = 0.;
     double test__value = 0.;
     midpoint = average(neg__point, pos__point);
     display("+");
     return (close__enough_Q(neg__point, pos__point) ? midpoint
         : true ? test__value = fun(midpoint),
-    	    (test__value > 0.0) ? FBtry(neg__point, midpoint)
-            :(test__value < 0.0) ? FBtry(midpoint, pos__point)
-	    :  midpoint
+    	    (test__value > 0.0) ? __FB__try(neg__point, midpoint)
+            :(test__value < 0.0) ? __FB__try(midpoint, pos__point)
+	        :  midpoint
             : _infinity);
 }
 
 bool close__enough_Q(double x, double y) {
+    const double tolerance = 0.00001;
     return(abs(x - y) < tolerance);
 }
 
@@ -52,7 +53,8 @@ double root (double a, double b) {
     display("discrepancy=\t");
     display(fun(temp)); newline();
     display("root=\t\t");
-    (temp - b - 1) == 0 ? display("[bad]"): display("[good]");
+    //(temp - b - 1) == 0 ? display("[bad]"): display("[good]");
+    display((temp - b - 1) == 0 ? "[bad]": "[good]");
     return temp;
 }
 
